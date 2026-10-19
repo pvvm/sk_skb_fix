@@ -1,0 +1,5 @@
+# Linux kernel tree cloned here for apply_fixes.sh
+/linux-7.1/
+
+# build outputs, in any directory named build
+fix_test/build/*
